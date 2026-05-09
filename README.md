@@ -1,5 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shresthbhargava&theme=dark)](https://git.io/streak-stats)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/shresth_bhargava?theme=dark&font=Karma)
 ## Hi there, I'm [shresth bhargava]! 👋
 I'm a second-year Computer Science student and an aspiring software developer. I'm passionate about building efficient backend systems and scalable web applications. I love tackling complex problems and learning new things every day. 🧑‍💻
 
