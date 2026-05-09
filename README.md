@@ -84,10 +84,10 @@ Computer Science student at VIT Bhopal with a focus on backend engineering, scal
 |---|---|---|
 | LeetCode | [@shresth\_bhargava](https://leetcode.com/u/shresth_bhargava) | 200+ problems |
 | CodeChef | [@shresthbhargav](https://www.codechef.com/users/shresthbhargav) | 117 problems |
-| Codeforces | [@dictator\_65](https://codeforces.com/profile/dictator_65) | Active |
-| GeeksForGeeks | [@shresthbhargava835](https://www.geeksforgeeks.org/user/shresthbhargava835) | 5 problems |
-| HackerRank | [@shresthbhargava1](https://www.hackerrank.com/profile/shresthbhargava1) | 7 problems |
-| InterviewBit | [@shresth-bhargava\_516](https://www.interviewbit.com/profile/shresth-bhargava_516) | Active |
+| Codeforces | [@dictator\_65](https://codeforces.com/profile/dictator_65) | 30+ problems |
+| GeeksForGeeks | [@shresthbhargava835](https://www.geeksforgeeks.org/user/shresthbhargava835) | 20 problems |
+| HackerRank | [@shresthbhargava1](https://www.hackerrank.com/profile/shresthbhargava1) | 20 problems |
+| InterviewBit | [@shresth-bhargava\_516](https://www.interviewbit.com/profile/shresth-bhargava_516) | 20+ problems|
 
 </div>
 
