@@ -97,6 +97,14 @@ Computer Science student at VIT Bhopal with a focus on backend engineering, scal
 
 <div align="center">
 
+  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shresthbhargava&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shresthbhargava&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shresthbhargava&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shresthbhargava&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shresthbhargava&theme=dark&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
