@@ -22,7 +22,7 @@
 
 Computer Science student at VIT Bhopal with a focus on backend engineering, scalable web systems, and API-driven architecture. I work across Django, FastAPI, and Flask, and actively explore DevOps workflows, distributed systems, and cloud-native infrastructure. Currently contributing to open source.
 
-- 🎓 B.Tech CSE · VIT Bhopal · Expected 2028 · CGPA: 5.99
+- 🎓 B.Tech CSE · VIT Bhopal · Expected 2028 · CGPA: 6.62
 - 📍 Delhi, India
 - 🔭 Actively contributing to open source projects
 - 💬 Strong foundation in DSA — 200+ problems solved across platforms
