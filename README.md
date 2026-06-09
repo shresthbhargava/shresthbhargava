@@ -69,8 +69,8 @@ Computer Science student at VIT Bhopal with a focus on backend engineering, scal
 
 | Project | Stack | Description |
 |---|---|---|
-| [SaaS Application Platform](https://github.com/shresthbhargava) | Django, Python | Scalable multi-user SaaS backend with RBAC, session management, and RESTful APIs |
-| [Stock Tracker Application](https://github.com/shresthbhargava) | Python, APIs | Real-time market data platform with async fetching and optimized API handling |
+| [Civicos](https://github.com/shresthbhargava) |Java, Spring Boot, PostgreSQL, JPA, Flyway, Docker | AI-assisted civic grievance routing platform that maps citizen issues to responsible departments, accountability chains, and current officials using temporal data modeling.|
+| [AutoResearcher AI](https://github.com/shresthbhargava) | React, TypeScript, Node.js, AI APIs, Vite | Built an AI-driven research assistant that automates data collection, source analysis, and report generation, reducing manual research effort and improving productivity. |
 | [Bank Management System](https://github.com/shresthbhargava) | Python, Django | Backend banking system with secure transactions, validation logic, and relational DB design |
 | [ChaiHeadQ Platform](https://github.com/shresthbhargava) | Web, Django | Modular web platform with structured routing and integrated database operations |
 
