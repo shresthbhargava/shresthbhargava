@@ -68,12 +68,19 @@ Computer Science student at VIT Bhopal with a focus on backend engineering, scal
 ## Projects
 
 | Project | Stack | Description |
-|---|---|---|
-| [Civicos](https://github.com/shresthbhargava) |Java, Spring Boot, PostgreSQL, JPA, Flyway, Docker | AI-assisted civic grievance routing platform that maps citizen issues to responsible departments, accountability chains, and current officials using temporal data modeling.|
-| [AutoResearcher AI](https://github.com/shresthbhargava) | React, TypeScript, Node.js, AI APIs, Vite | Built an AI-driven research assistant that automates data collection, source analysis, and report generation, reducing manual research effort and improving productivity. |
-| [Bank Management System](https://github.com/shresthbhargava) | Python, Django | Backend banking system with secure transactions, validation logic, and relational DB design |
-| [ChaiHeadQ Platform](https://github.com/shresthbhargava) | Web, Django | Modular web platform with structured routing and integrated database operations |
+|----------|--------|-------------|
+| [CivicOS](https://github.com/shresthbhargava/civicos) | Java, Spring Boot, PostgreSQL, JPA, Flyway, Docker | AI-powered civic accountability platform that routes citizen grievances to responsible government departments using recursive hierarchy traversal, temporal official records, and legislation mapping. |
+| [HandymanHub](https://github.com/shresthbhargava/handymanhub) | Java, Spring Boot, MySQL, JPA, Flyway, Docker, JUnit 5, Mockito | Production-oriented backend platform for blue-collar workforce management featuring 30+ REST APIs, booking state machine, contractor verification, skill-based worker discovery, automated database migrations, and containerized deployment. |
+| [AutoResearch AI](https://autoresearch-ai-seven.vercel.app/) | React, TypeScript, Node.js, Gemini AI, Vertex AI, LangChain, Vite | Multi-agent AI system that converts startup notes, PDFs, screenshots, and documents into Business Requirement Documents with automated market research, SWOT analysis, and source-backed insights. |
+| [Loan Eligibility Predictor](https://huggingface.co/spaces/shresth0/loan-eligibility-predictor) | Python, Scikit-Learn, Pandas, Streamlit | Machine learning application that predicts loan approval eligibility using financial and demographic data with real-time inference through an interactive web interface. |
+---
 
+## 🏆 Open Source
+
+- GSSoC 2026 Contributor
+- 39+ merged pull requests
+- 5,000+ contribution points
+- Contributed across UI, animations, accessibility, documentation, and feature development
 ---
 
 ## Competitive Programming
